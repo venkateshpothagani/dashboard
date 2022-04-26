@@ -1,0 +1,14 @@
+.card {
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	height: 582px;
+	width: 380px;
+	background: #ffffff;
+	border: 1px solid #dfe0eb;
+	box-sizing: border-box;
+	border-radius: 8px;
+	margin: auto;
+}
